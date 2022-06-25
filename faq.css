@@ -1,0 +1,15 @@
+#body-page{
+    background-color: #ffffdd;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.header{
+    text-align: center;
+    font-weight: bold;
+}
+.form-inline{
+    margin-bottom: 10px;
+    margin-left: 30%;
+    width: 50%;
+
+}
